@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/zooapp-react/static/js/main.3ed7088a.js",
+    "index.html": "/zooapp-react/index.html",
+    "main.3ed7088a.js.map": "/zooapp-react/static/js/main.3ed7088a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3ed7088a.js"
+  ]
+}
